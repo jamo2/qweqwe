@@ -22,14 +22,7 @@ aasd asd askd ashd ahsdo iasod ashid  `фдыов` дфыо двлфыдов
 | asdj      |             ASjdoiahsd |
 
 
-```feature
-# language: ru
-Функционал: йщцурщйшрщфы
-  фырвфывфырв
-
-  Сценарий: фРФГШРЫВШФ
-    Если фывофыв
-```
+https://github.com/vslinko-personal/qweqwe/issues/4
 
 
 [Visit GitHub!](http://www.github.com)
